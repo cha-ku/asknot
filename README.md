@@ -1,10 +1,10 @@
-Ask not what Mozilla can do for you but what you can do for Mozilla? 
+Ask not what C++ can't do for you but what you can do with C++? 
 
-This project is a place for contributors to start looking for new projects to work on. This will guide you in the right direction depending on your prefered development language.
+This project is a place for contributors to start looking for new projects to work on.
 
 ## Installing Locally
 
-    git clone https://github.com/jdm/asknot asknot
+    git clone https://github.com/cha-ku/asknot asknot
     cd asknot
 
 Start a local HTTP server. There are a lot of ways to do this but here is one
